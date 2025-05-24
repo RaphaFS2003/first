@@ -1,2 +1,2 @@
 # first
-Primeiro repositório.
+Primeiro repositório contendo algumas recomendações de filmes, series e animes.
